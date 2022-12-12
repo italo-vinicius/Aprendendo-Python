@@ -1,4 +1,4 @@
-###Variáveis
+### Variáveis
 ****
 Ao escrever variáveis, sempre comece com letras minusculas.
 as variáveis são usadas para salvar algo na memória do computador. Podemos tambem usar snake case, onde separamos as palavras por ``_``

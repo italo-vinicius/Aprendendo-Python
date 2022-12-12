@@ -1,4 +1,4 @@
-###Numbers
+### Numbers
 ****
 No python, temos números de tipo **inteiro** e tipo **float** e ambos possuem distinções
 O tipo ``inteiro(int)`` representa qualquer número positivo ou negativo. O int sem sinal é considerado positivo.

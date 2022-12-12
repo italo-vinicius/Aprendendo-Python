@@ -1,4 +1,4 @@
-###Operadores aritméticos
+### Operadores aritméticos
 ****
 Como o próprio nome já diz, são responsáveis por realizar operações matemáticas, como adição, multiplicação, divisão, subtração e assim por diante.
 

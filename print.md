@@ -1,4 +1,4 @@
-###Imprimindo no terminal
+### Imprimindo no terminal
 Usamos a função ``print()`` para imprimir informações no terminal
 ```
 EX:

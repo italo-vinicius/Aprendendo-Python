@@ -1,4 +1,4 @@
-###Strings
+### Strings
 ****
 Python é uma linguagem de tipagem dinâmica / Forte, Ou seja, o python já sabe qual o tipo da informação que está sendo passada.
 Na tipagem dinâmica, o python ler um número e já conhece o valor como número, não sendo necessário especificar se é string ou number
