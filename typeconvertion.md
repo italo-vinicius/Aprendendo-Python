@@ -1,6 +1,6 @@
 ### Conversão de tipos
 ****
-Em python, por ser de tipagem fraca, não podemos concatenar tipos diferentes como int e str, mas podemos converter tipos de dados. Por exemplo, posso transformar um valor int em uma str
+Em python, por ser de tipagem forte, não podemos concatenar tipos diferentes como int e str, mas podemos converter tipos de dados. Por exemplo, posso transformar um valor int em uma str
 
 ```
 print(100 + 'teste')
